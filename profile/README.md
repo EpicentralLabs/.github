@@ -10,8 +10,18 @@ VaultiFi provides an environment for other projects to create customizable "savi
 With Solana communities on the rise, especially with the recent memecoin surge, VaultiFi caters to communities that can thrive from a new benefit in providing a spl-token staking environment.
 > Learn more about VaultiFi by reading the documentation [here](https://docs.vaultifi.org/).
 
+
+
 ## Contribute to VaultiFi 👨‍💻
 VaultiFi plans to be an open-source project with a reward system for those who find bugs, fix UI/UX issues, and provide more efficient methods in making Vaults operate more smoothly. This is essential for the Decentralized Finance (DeFi) space. Learn how to contribute to this project and receive rewards while doing so [here](https://docs.vaultifi.org/contribute-to-vaultifi)!
 
+
+
 ## VaultiFi Updates 🆕
 VaultiFi Updates are a collection of pages with updates listed to show the overall progress of VaultiFi. Besides the GitHub Repository and its updates made there, the changelogs [here](https://docs.vaultifi.org/vaultifi-updates) are made for a more organized and reader-friendly look so that the community knows what's happening behind the scenes in a more "wordy" manner.
+
+
+
+## Community 🌎:
+
+Join our Community Discord here: [Discord](https://discord.gg/3zSrq93V2u)

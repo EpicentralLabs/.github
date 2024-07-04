@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-![image](https://github.com/VaultiFi/.github/assets/161502578/2c9111ee-8602-4e5b-a46d-16d88f350855)
+![image](https://raw.githubusercontent.com/EpicentralLabs/.github/main/Epicentral%20Labs%20Banner.png)
 
 With Solana communities on the rise, especially with the recent memecoin surge, Epicentral Labs caters to communities that can thrive from a new benefit in providing a spl-token staking environment.
 > Learn more about **Epicentral Labs** by reading the documentation [TODO]

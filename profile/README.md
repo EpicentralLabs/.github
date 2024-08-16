@@ -1,13 +1,14 @@
-## Greetings! 👋
+## Welcome to Epicentral Labs!👋
 
-![image](https://raw.githubusercontent.com/EpicentralLabs/.github/main/Epicentral%20Labs%20Banner.png)
+![image](https://raw.githubusercontent.com/EpicentralLabs/lab-docs/main/docs/src/public/DexScreenerBanner.png)
 
-With Solana communities on the rise, especially with the recent memecoin surge, Epicentral Labs caters to communities that can thrive from a new benefit in providing a spl-token staking environment.
-> Learn more about **Epicentral Labs** by reading the documentation [TODO]
+Epicentral Labs is dedicated to empowering Solana communities with innovative solutions like SPL-token staking environments. Whether you're part of the memecoin movement, a DeFi enthusiast, or a DAO looking to grow, our tools are designed to help your project thrive.
+> Learn more about **Epicentral Labs** by reading the [documentation](https://epicentrallabs.com/)
 
-## Epicentral Lab Updates 🆕
-Epicentral Labs Docs are a collection of pages with changelogs listed to show the overall progress of Epicentral Labs. Besides the GitHub Repository and its updates made there, the changelogs are made for a more organized and reader-friendly look so that the community knows what's happening behind the scenes in a more "wordy" manner.
+## What's New at Epicentral Labs? 🆕
+
+Stay informed with our Docs, where you’ll find detailed changelogs and updates about the latest developments at Epicentral Labs. These updates provide a comprehensive view of our progress and the work happening behind the scenes, all presented in an easy-to-read format.
 
 ## Community 🌎:
 
-Join our Community Discord here: [Discord](https://discord.gg/3zSrq93V2u)
+Connect with like-minded individuals and get involved in the conversation on our [Discord](https://discord.gg/3zSrq93V2u). We're excited to have you with us!

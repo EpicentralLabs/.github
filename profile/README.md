@@ -11,4 +11,4 @@ Stay informed with our Docs, where you’ll find detailed changelogs and updates
 
 ## Community 🌎:
 
-Connect with like-minded individuals and get involved in the conversation on our [Discord](https://discord.gg/3zSrq93V2u). We're excited to have you with us!
+Connect with like-minded individuals and get involved in the conversation on our [Discord](https://discord.gg/5asAuY2sR8). We're excited to have you with us!

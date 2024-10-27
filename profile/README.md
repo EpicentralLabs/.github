@@ -1,5 +1,3 @@
-## Welcome to Epicentral Labs!👋
-
 ![imageh](https://raw.githubusercontent.com/EpicentralLabs/content-library/refs/heads/master/public-images/Epicentral_Labs_GitHub_Banner.png)
 
 ## Community 🌎:

@@ -1,4 +1,4 @@
-![imageh](https://raw.githubusercontent.com/EpicentralLabs/content-library/refs/heads/master/public-images/Epicentral_Labs_GitHub_Banner.png)
+![image](https://github.com/user-attachments/assets/0c6c984d-3213-4480-be2d-d56fe588a7b3)
 
 ## Community 🌎:
 
